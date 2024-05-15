@@ -6,5 +6,6 @@ A script that spam messages a desired account on geometry dash.
 - open `GDspam.py` and on line 97 enter proxy details
 # Important
 - After about 400 messages on each account you cant send anymore
+- Whoever messages you want to spam has to have them public
 - Do not use a free proxy server, I use https://www.wtfproxy.com
 - This script is for educational purposes only and should not be used in an unethical way
